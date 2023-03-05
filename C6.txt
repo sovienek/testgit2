@@ -1,1 +1,2 @@
 C6 from main remote
+modification faite en remote avec création création de 2 fichiers remotes
